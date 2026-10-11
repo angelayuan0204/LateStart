@@ -1,8 +1,8 @@
-## 📱 LateStart
+## LateStart
 
-> 🗄️ **Archived snapshot (2024–2025).** This repo is a cleaned, static snapshot of the LateStart project. School calendar/alarm data tables are frozen as of the 2025–26 school year, and the app is not under active development.
+> **Archived snapshot (2024–2025).** This repo is a cleaned, static snapshot of the LateStart project. School calendar/alarm data tables are frozen as of the 2025–26 school year, and the app is not under active development.
 
-## 📌 Project Overview
+## Project Overview
 
 **LateStart** is a mobile app designed to help schools and students manage cycle-day calendars and alarms.
 
@@ -14,7 +14,7 @@ It was originally built for personal use, then expanded to teachers, classmates,
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 - **Framework:** Flutter
 
@@ -30,7 +30,7 @@ It was originally built for personal use, then expanded to teachers, classmates,
 
 ---
 
-## 📂 File Structure
+## File Structure
 
 ```
 LateStart/
@@ -73,7 +73,7 @@ LateStart/
 
 ---
 
-## 👩‍💻 Contribution
+## ‍Contribution
 
 **Angela Yuan (student):**
 
@@ -101,7 +101,7 @@ LateStart/
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Install **Flutter 3.24.5** (channel stable).
 
@@ -123,7 +123,7 @@ LateStart/
 
 ---
 
-## 📦 Dependencies
+## Dependencies
 
 The app uses several open-source Flutter packages. Full versions are listed in `pubspec.yaml`.
 
@@ -153,7 +153,7 @@ The app uses several open-source Flutter packages. Full versions are listed in `
 
 ---
 
-## 📜 Notes
+## Notes
 
 - All third-party packages are open-source.
 
